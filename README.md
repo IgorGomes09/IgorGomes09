@@ -1,7 +1,7 @@
 ## Ola, eu sou Igor Gomes, Front end developer!
 
 <div align="center" style="display: inline_block">
-  <a href="https://github.com/CLSCaio"/>
+  <a href="https://github.com/IgorGomes09"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clscaio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clscaio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
