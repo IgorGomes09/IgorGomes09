@@ -32,7 +32,7 @@
   </a>
 </div>
   
-  ![Snake animation](https://github.com/clscaio/clscaio/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/IgorGomes09/IgorGomes09/blob/output/github-contribution-grid-snake.svg)
 
 
 
