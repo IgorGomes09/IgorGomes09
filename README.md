@@ -19,11 +19,11 @@
  
 <div align="center" style="display: inline_block">
    
-  <a href = "mailto:caiol.sousa@gmail.com" target="_blank">
+  <a href = "mailto:igorgomesigla@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
   
-  <a href="https://www.linkedin.com/in/caio-sousa-8a0b1a222" target="_blank">
+  <a href="https://www.linkedin.com/in/igor-gomes-77ba02129/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   
